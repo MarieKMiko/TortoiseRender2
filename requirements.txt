@@ -10,7 +10,7 @@ requests
 pyyaml
 fastprogress
 pillow
-python3
+python3==3.5.3-1
 scikit-learn
 scipy
 spacy
