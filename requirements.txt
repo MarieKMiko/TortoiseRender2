@@ -1,3 +1,4 @@
+pip==22.2.2
 aiofiles
 aiohttp
 asyncio
@@ -10,7 +11,6 @@ pyyaml
 fastprogress
 pillow
 python==3.7.13
-pip==22.2.2
 scikit-learn
 scipy
 spacy
