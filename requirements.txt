@@ -16,3 +16,4 @@ spacy
 starlette
 fastai
 fastprogress
+uvicorn
