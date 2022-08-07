@@ -10,7 +10,7 @@ pyyaml
 fastprogress
 pillow
 pip==22.2.2
-python>=3
+python 
 scikit-learn
 scipy
 spacy
