@@ -17,10 +17,10 @@ from fastai.vision.all import *
 # lib.utilities contains custom functions used during training that pickle is expecting
 
 
-export_file_url = YOUR_GDRIVE_LINK_HERE
-export_file_name = 'export.pkl'
+export_file_url = "https://www.dropbox.com/s/oz7r5yzbkpe8ifg/tortoise.pkl?dl=1"
+export_file_name = 'tortoise.pkl'
 
-classes = YOUR_CLASSES_HERE
+classes = ['egyptian', 'galapagos giant', "hermann's", 'leopard', 'red-footed', 'russian', 'sulcata']
 path = Path(__file__).parent
 
 app = Starlette()
